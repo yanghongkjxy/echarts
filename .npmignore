@@ -1,7 +1,14 @@
-/build
-/doc
-/index.html
-
-npm-debug.log
-
-
+/test
+/map/tool
+/map/raw
+/theme/tool
+/theme/thumb
+/todo
+/npm-debug.log
+/benchmark
+/src
+.DS_Store
+Thumbs.db
+Desktop.ini
+# Hidden files
+.*
